@@ -1,8 +1,8 @@
 # discord-music_bot
 Your Requirement to set up this bot 
 
-Node JS Version upper or equal 16
-VS Code
+-Node JS Version upper or equal 16
+-VS Code
 
 How to set up Music bot
 
